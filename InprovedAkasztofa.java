@@ -8,7 +8,7 @@ public class InprovedAkasztofa {
         
         Integer life = 10;
         
-        System.out.println("Adj meg egy szót vagy többet:");
+        System.out.println("Adj meg egy szót vagy többet (az ékezeteket nem ismeri fel!):");
         Scanner be = new Scanner(System.in);
         String s = be.nextLine();
         
